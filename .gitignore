@@ -1,0 +1,8 @@
+kafka-persistence/
+kafka_*/
+stream-generator/
+kafka-python/
+streamsgen/
+kafka_*
+*-bitnami
+.vscode/
